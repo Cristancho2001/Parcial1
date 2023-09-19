@@ -1,1 +1,17 @@
-1.
+Informe de Analisis
+Una de las primeras soluciones que puedo encontrar para la solucion del parcial es:
+1. Concretar los 64 pines, el cual utilizaremos para la composicion del parcial, el cual tambien se contara con las resistencias.
+2. Un arduino para controlar dichos procesos.
+3. Utilizaremos una matriz 8x8, en los cuales los pines seran conectadas der manera ordenada por columnas y filas.
+4. Calcular las resistencias adecuadas para limitar el funcionamineto de cada led.
+5. La forma en que pense para controlar los leds, es por arduino para controlar, definiendo asi los pines que tenemos limitados que se utilizaran en cada fila y columna.
+6. Programar el codigo, para controlar los leds y formar los patrones deseados.
+7. Conectar las filas y columnas al microcontrolador en base al codigo y el diseño que tenemos en mente.
+8. Realizar las pruebas correspondientes para la verificacion de los leds.
+
+Por ultimo debido al poco conocimiento que implento en esta clase de diseños o trabajos, se ha dificultado la solucion a este parcial, pero en el cual la plataforma es intuitiva
+y teniendo ya conocimientos previos a la programacion en c++, se llevara a cabo con sus debidos requisitos y especificaciones.
+
+
+https://github.com/Cristancho2001/Parcial1.git
+
